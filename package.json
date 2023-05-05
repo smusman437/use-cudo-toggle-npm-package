@@ -1,0 +1,15 @@
+{
+  "name": "@sahibzada/use-cudo-toggle",
+  "version": "1.0.0",
+  "description": "use cudo toggle",
+  "main": "use-cudo-toggle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sahibzada Muhammad Usman",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
